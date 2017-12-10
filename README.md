@@ -7,6 +7,8 @@ MITの物理学者Max Tegmark氏による、Life 3.0という本が面白かっ�
 
 ## 目次
 
+- [Prelude: The Tale of the Omega Team](https://github.com/okmttdhr/life-3.0#prelude-the-tale-of-the-omega-team)
+
 ## Prelude: The Tale of the Omega Team
 
 序章として、`Omega`という空想上のAI企業を仮定、AIがパワーを持つ社会はどのようになるのか、というのが描かれている。
