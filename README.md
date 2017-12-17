@@ -57,3 +57,17 @@ MITの物理学者Max Tegmark氏による、Life 3.0という本が面白かっ�
 例を挙げると、`2100年までにSuperintelligenceが実現する` `AIは悪意を持ちうる` `AIは人間をコントロールできない`、これらはすべて神話だと述べられている。
 
 ## 2. Matter Turns Intelligent
+
+この章ではコンピューターの歴史や仕組みを交えながら、`Intelligence`とは何か、について述べられている。
+
+研究者の中でも`Intelligence`の絶対的な定義はなく、この本では`Intelligence`を以下のように定義している。
+
+```
+intelligence = ability to accomplish complex goals
+```
+
+これは、例えば、オックスフォード辞書の`the ability to acquire and apply knowledge and skills`という定義も包括されている、と解釈できる。
+
+
+
+コンピュータによる演算が、どんなコンピューターにおいても同じ結果を出すのは、
