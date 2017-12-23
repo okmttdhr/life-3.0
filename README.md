@@ -9,8 +9,8 @@ MITの物理学者Max Tegmark氏による、Life 3.0という本が面白かっ�
 
 - [Prelude: The Tale of the Omega Team](https://github.com/okmttdhr/life-3.0#prelude-the-tale-of-the-omega-team)
 - [1. Welcome to the Most Important Conversation of Our Time](https://github.com/okmttdhr/life-3.0#1-welcome-to-the-most-important-conversation-of-our-time)
-- 2. Matter Turns Intelligent
-- 3. The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs
+- [2. Matter Turns Intelligent](https://github.com/okmttdhr/life-3.0#2-matter-turns-intelligent)
+- [3. The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs](https://github.com/okmttdhr/life-3.0#3-the-near-future-breakthroughs-bugs-laws-weapons-and-jobs)
 
 ## Prelude: The Tale of the Omega Team
 
