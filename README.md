@@ -114,11 +114,17 @@ Apple, Baidu, DeepMind, Facebook, Google, Microsoftなどの大企業がこぞ�
 
 そして、我々が気になるところである、以下のような疑問に答えている。
 
-- これからの時代の子供へ、キャリアのアドバイスをするなら?(生き残れる仕事は?)
+- これからの時代の子供へ、キャリアのアドバイスをするなら?(人工知能に奪われない仕事は?)
 - 人間は働かなくていいのか?
 - AIによって本当に仕事が奪われるのか?
 
+### 人工知能に奪われない仕事
 
+人工知能に奪われない仕事について、例として以下のように述べている
+
+- Does it require interacting with people and using social intelligence?
+- Does it involve creativity and coming up with clever solutions?
+- Does it require working in an unpredictable environment?
 
 
 ベーシック・インカムは?
