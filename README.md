@@ -9,6 +9,8 @@ MITの物理学者Max Tegmark氏による、Life 3.0という本が面白かっ�
 
 - [Prelude: The Tale of the Omega Team](https://github.com/okmttdhr/life-3.0#prelude-the-tale-of-the-omega-team)
 - [1. Welcome to the Most Important Conversation of Our Time](https://github.com/okmttdhr/life-3.0#1-welcome-to-the-most-important-conversation-of-our-time)
+- 2. Matter Turns Intelligent
+- 3. The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs
 
 ## Prelude: The Tale of the Omega Team
 
@@ -89,3 +91,28 @@ intelligence = ability to accomplish complex goals
 ## その他
 
 この他にも、近年の演算性能(FLOPS)の急成長や、学習とは何か、という観点から、機械学習やニューラルネット、量子コンピュータなどに触れている。
+
+## 3. The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs
+
+DeepMind’s AlphaGo
+Apple, Baidu, DeepMind, Facebook, Google, Microsoft
+
+- 宇宙
+- 金融
+- 製造
+- 移動
+- エネルギー
+- 医療
+- コミュニケーション
+- 法律
+- 軍事/サイバーテロ
+
+今の時代の子供へ、キャリアのアドバイスをするなら？
+
+人間は働かなくていいのか？
+
+AIによって本当に仕事が奪われるのか？
+
+ベーシック・インカムは？
+
+AGIは可能？
