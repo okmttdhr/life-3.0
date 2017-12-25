@@ -1,9 +1,9 @@
 
 # Life 3.0
 
-MITの物理学者Max Tegmark氏による、[Life 3.0](https://www.amazon.co.jp/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/ref=sr_1_1?ie=UTF8&qid=1514167497&sr=8-1&keywords=Life+3.0)という本が面白かったので、日本の方々にもっと読んでほしい(そして感想を聞かせてほしい)という想いで、書評/感想をかきました。
+MITの物理学者Max Tegmark氏による、Life 3.0という本が面白かったので、日本の方々にもっと読んでほしい(そして感想を聞かせてほしい)という想いで、書評/感想をかきました。
 
-<a target="\_blank" href="https://www.amazon.co.jp/gp/product/B06WGNPM7V/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B06WGNPM7V&linkCode=as2&tag=okp1211-22&linkId=96ab80ae03a2e19d763a3fcbfba8c3dc">Life 3.0: Being Human in the Age of Artificial Intelligence</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=okp1211-22&l=am2&o=9&a=B06WGNPM7V" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="\_blank" href="https://www.amazon.co.jp/gp/product/B06WGNPM7V/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B06WGNPM7V&linkCode=as2&tag=okp1211-22&linkId=96ab80ae03a2e19d763a3fcbfba8c3dc">Life 3.0: Being Human in the Age of Artificial Intelligence</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=okp1211-22&l=am2&o=9&a=B06WGNPM7V" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 内容的には、機械学習の数学的な話にはほとんど触れられず、AIというくくりで、人間との社会的な関わりをどうしてゆくのか、というようなことがかかれております(サブタイトルも`Being Human in the Age of Artificial Intelligence`)。
 
