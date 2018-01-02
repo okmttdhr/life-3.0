@@ -40,7 +40,7 @@ MITの物理学者Max Tegmark氏による、[Life 3.0](http://amzn.to/2C47BZw)�
 
 ### 用語の定義
 
-まず、この本におけるArtificial Intelligenceとは、というところから、Strgon AI、AGI、Superintelligenceなどの定義をしている。特に気になったのは、`lifeとは何か`の定義だ。この本では、未来における`life`のありかたに制限をかけないために、以下のように定義している。
+まず、この本におけるArtificial Intelligenceとは、というところから、Strong AI、AGI、Superintelligenceなどの定義をしている。特に気になったのは、`lifeとは何か`の定義だ。この本では、未来における`life`のありかたに制限をかけないために、以下のように定義している。
 
 - **複製されるもの**
 - **物体(atomなど)ではない**
